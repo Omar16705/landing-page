@@ -81,3 +81,9 @@
         display: flex;
         justify-content: space-around;
     }
+
+
+    .footer1
+    {
+      border-radius: 10px;
+    }
